@@ -1,0 +1,14 @@
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\bin\Debug\netcoreapp2.1\angular-dotnet-scaffolding.deps.json
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\bin\Debug\netcoreapp2.1\angular-dotnet-scaffolding.runtimeconfig.json
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\bin\Debug\netcoreapp2.1\angular-dotnet-scaffolding.runtimeconfig.dev.json
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\bin\Debug\netcoreapp2.1\angular-dotnet-scaffolding.dll
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\bin\Debug\netcoreapp2.1\angular-dotnet-scaffolding.pdb
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.csprojAssemblyReference.cache
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.csproj.CoreCompileInputs.cache
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.RazorAssemblyInfo.cache
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.RazorAssemblyInfo.cs
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.AssemblyInfoInputs.cache
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.AssemblyInfo.cs
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.RazorTargetAssemblyInfo.cache
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.dll
+C:\Users\mhandria\Developer\angular-dotnet-scaffolding\angular-dotnet-scaffolding\obj\Debug\netcoreapp2.1\angular-dotnet-scaffolding.pdb
