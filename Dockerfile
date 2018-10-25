@@ -1,5 +1,5 @@
 # Stage 1 (Build)
-FROM microsoft/dotnet:2.1-sdk as builder
+FROM microsoft/dotnet:2.2-sdk as builder
 WORKDIR /src
 
 RUN apt-get update && \
@@ -18,7 +18,7 @@ RUN dotnet publish --output /app/ --configuration Release
 
 
 # Stage 2 (Package)
-FROM microsoft/dotnet:2.1.0-aspnetcore-runtime
+FROM microsoft/dotnet:2.2-aspnetcore-runtime
 WORKDIR /app
 
 COPY --from=builder /app/ .
